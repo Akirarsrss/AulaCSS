@@ -1,0 +1,47 @@
+body
+{
+    margin : 0;
+    padding: 0;
+}
+
+h1
+{
+    background-color: #ffc473;
+    color: #ff8d1b;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+div
+{
+    border: 1px solid #e36a00;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3
+{
+    color: #ff8d1b;
+}
+
+.azul
+{
+    color: blue;
+}
+
+.negrito
+{
+    font-weight: bold;
+}
+
+.italico
+{
+    font-style: italic;
+}
+
+.sublinhado
+{
+    text-decoration: underline;
+}
+
