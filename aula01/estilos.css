@@ -28,6 +28,7 @@ h3
 .azul
 {
     color: blue;
+    font-weight: bold;
 }
 
 .negrito
@@ -43,5 +44,24 @@ h3
 .sublinhado
 {
     text-decoration: underline;
+}
+
+.destaque
+{
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.cursiva
+{
+    font-family: 'Lucida Handwriting';
+    font-size: 20px;
+    color: #e36a00;
+}
+
+.google
+{
+    font-family: 'Changa';
+    font-size: 22px;
 }
 
